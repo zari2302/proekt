@@ -8,5 +8,6 @@ public class Main {
         int b = scanner.nextInt();
         int suma = a*b;
         System.out.println(suma);
+        System.out.println("5");
     }
 }
