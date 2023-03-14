@@ -17,7 +17,7 @@ public class Main {
         nurdolot.ilivein = "Kalinin";
         nurdolot.meshkoll = 28;
         nurdolot.kurs = "it";
-        nurdolot.rodilsa = "kochkor-ata";
+        nurdolot.rodilsa = "kochkor--ata";
         nurdolot.meheight = 182;
         nurdolot.favoriteSport = "footbol";
         nurdolot.favoriteSubject = "informatika";
